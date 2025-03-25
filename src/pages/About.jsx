@@ -1,8 +1,8 @@
 import { Link } from 'react-router-dom';
 import Navbar from '../components/Navbar';
 import Footer from '../components/Footer';
-import Hero from '../assets/images/pool-suite.webp'; // Reuse or replace with an about-specific image
-import Team1 from '../assets/images/manager.webp'; // Add team member images
+import Hero from '../assets/images/pool-suite.webp';
+import Team1 from '../assets/images/manager.webp';
 import Team2 from '../assets/images/chef.jpg';
 import Team3 from '../assets/images/guest.webp';
 import Team4 from '../assets/images/nice.jpg';
